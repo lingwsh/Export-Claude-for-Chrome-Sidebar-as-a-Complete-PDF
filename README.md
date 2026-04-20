@@ -1,5 +1,7 @@
 # Export Claude for Chrome Sidebar as a Complete PDF
 
+[中文](https://github.com/lingwsh/Export-Claude-for-Chrome-Sidebar-as-a-Complete-PDF/blob/main/README_CN.md)
+
 **A robust, semi-automated workaround to perfectly export your Claude for Chrome side panel conversations to PDF without losing CSS styling or suffering from print pagination truncation.**
 
 ## 🛑 The Problem
